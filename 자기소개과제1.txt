@@ -1,0 +1,28 @@
+<html>
+ <head>
+    <title>테스트</title>
+    <style>
+        .myStyle {
+            color:#000000;background-color:rgb(255, 255, 255);
+        }
+        .myStyle2 {
+            color:#ffffff;background-color:#ffc5eb;
+        }
+    </style>
+ </head>
+<body>
+    <h1 class="myStyle">
+        <a href="/">
+          <img src="https://postfiles.pstatic.net/MjAxNzExMDhfNjQg/MDAxNTEwMTIwMjY1Njg2.aSkT35gEhRsPYluaekjFVD3NOPFGD0ZA67bzdcZy_g8g.UkxXuS0b0C9oDST6q89Biwkk33IJUIQmS5qRGumhfBgg.JPEG.thecontest/640.jpg?type=w3840" width="300"/>
+        </a>
+        <br>
+        저는 대학생이고 리락쿠마를 좋아합니다 위에 있는 사진이 제가 좋아하는 리락쿠마입니다
+        <p class="myStyle2" >제 취미는 영화를 보는 것입니다
+        <br> 제가 가장 재미있게 본 영화는 괴물입니다 (송강호 나오는 영화 아님)
+        </p>
+        <p style="margin-top:60px;color:#ffc5eb">내향적인 편이지만 친구들을 만나는 것을 좋아합니다
+        <br> 혼자 산책하거나 영화 보는 것도 좋아합니다
+        </p>
+    </h1>
+</body>
+</html>
